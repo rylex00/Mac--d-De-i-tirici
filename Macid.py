@@ -10,6 +10,10 @@ os.system("figlet BHECY")
 
 os.system("figlet MAC ID DEGISTIRME ARACI")
 
+os.system("clear") 
+	  
+	
+
 print("""
 
          $$$$$$$$$  $$$$$$$$  $$$$#   #$$$$	
