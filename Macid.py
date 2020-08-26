@@ -12,8 +12,15 @@ os.system("figlet MAC ID DEGISTIRME ARACI")
 
 print("""
 
-Mac ID Değiştirme aracı aracına Hoş geldin...
+         $$$$$$$$$  $$$$$$$$  $$$$#   #$$$$	
 
+	 $$$        $$    $$     $$   $$  	
+
+	 $$$$$$$$   $$$$$$$$       $$$	
+
+	      $$$   $$             $$$		
+
+	$$$$$$$$$   $$             $$$	       >Coder By Rylex
 """)
 
 agbag=input("Ag bagdastirici adi : ")
