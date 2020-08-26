@@ -6,25 +6,17 @@ os.system("apt-get install figlet")
 
 os.system("clear")
 
-os.system("figlet BHECY")
 
-os.system("figlet MAC ID DEGISTIRME ARACI")
 
-os.system("clear") 
+os.system("figlet SPY HACKERZ MAC ID DEGISTIRME ARACI")
+
+
 	  
 	
 
 print("""
 
-         $$$$$$$$$  $$$$$$$$  $$$$#   #$$$$	
-
-	 $$$        $$    $$     $$   $$  	
-
-	 $$$$$$$$   $$$$$$$$       $$$	
-
-	      $$$   $$             $$$		
-
-	$$$$$$$$$   $$             $$$	       >Coder By Rylex
+                        >Coder By Rylex
 """)
 
 agbag=input("Ag bagdastirici adi : ")
